@@ -1,5 +1,9 @@
 # サガ フロンティア SaGa Frontier
-- Remastered (steam)
+筆者が遊んでいるバージョン
+- Remastered (steam)  
+  主にこっちの話
+- 無印 (PS)  
+  共通部分はあると思うけど保証しない
 
 ## 方針
 - 主人公
